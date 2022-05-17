@@ -20,4 +20,6 @@ random_blue()
 random_brown()
 random_white()
 random_grey()
+-- and of course --
+random_all()
 ```
